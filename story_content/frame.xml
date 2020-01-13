@@ -1,0 +1,1711 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bwFrame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" default_layout="pxabnsnfns01001010111" textdirection="ltr" device="false" fontscale="100" kbshortcuts="false" skip_nav_enabled="true" chromeless="false" outputtype="undefined" theme="classic">
+  <layouts>
+    <layout name="npnxnanbsnfns01001010111" font="Open Sans" controllayout="npnxnanbsnfns01001010111" colorscheme="pxabnsnfns01001010111" string_table="pxabnsnfns01001010111" />
+    <layout name="pxabnsnfns01001010111" font="Open Sans" controllayout="pxabnsnfns01001010111" colorscheme="pxabnsnfns01001010111" string_table="pxabnsnfns01001010111" />
+    <layout name="npxnabnsnfns01001010111" font="Open Sans" controllayout="npxnabnsnfns01001010111" colorscheme="pxabnsnfns01001010111" string_table="pxabnsnfns01001010111" />
+    <layout name="npnxnanbnsnfns01001010111" font="Open Sans" controllayout="npnxnanbnsnfns01001010111" colorscheme="pxabnsnfns01001010111" string_table="pxabnsnfns01001010111" />
+    <layout name="pxabnsnfns01001010110" font="Open Sans" controllayout="pxabnsnfns01001010110" colorscheme="pxabnsnfns01001010111" string_table="pxabnsnfns01001010111" />
+    <layout name="pxabnsnfns01001100111" font="Open Sans" controllayout="pxabnsnfns01001100111" colorscheme="pxabnsnfns01001010111" string_table="pxabnsnfns01001010111" />
+    <layout name="pnxanbnsnfns01001100111" font="Open Sans" controllayout="pnxanbnsnfns01001100111" colorscheme="pxabnsnfns01001010111" string_table="pxabnsnfns01001010111" />
+    <layout name="pxabnsnfns11111100111" font="Open Sans" controllayout="pxabnsnfns11111100111" colorscheme="pxabnsnfns01001010111" string_table="pxabnsnfns01001010111" />
+  </layouts>
+  <control_options>
+    <optiongroups>
+      <optiongroup name="sidebaroptions">
+        <options>
+          <option name="title_enabled" value="true">
+            <options>
+              <option name="title_text" value="Finanical Literacy" />
+            </options>
+          </option>
+          <option name="logo_enabled" value="true">
+            <options>
+              <option name="logo_url" value="story_content\6Dy9Cl3SYjf_DX1024_DY1024.swf" />
+              <option name="html5_logo_url" value="mobile/6kt6EP7KX6v.png" />
+            </options>
+          </option>
+          <option name="sidebar_enabled" value="true">
+            <options>
+              <option name="sidebarpos" value="left" />
+              <option name="closed" value="false" />
+            </options>
+          </option>
+          <optionlist name="tabs">
+            <listitems>
+              <listitem name="resources" value="true" group="linkright" />
+              <listitem name="outline" value="true" group="sidebar" />
+              <listitem name="glossary" value="true" group="sidebar" />
+              <listitem name="transcript" value="false" group="sidebar" />
+            </listitems>
+          </optionlist>
+          <option name="time_enabled" value="false">
+            <options>
+              <option name="time_format" value="" />
+            </options>
+          </option>
+          <option name="video_enabled" value="false">
+            <options>
+              <option name="height" value="135" />
+            </options>
+          </option>
+        </options>
+      </optiongroup>
+      <optiongroup name="menuoptions">
+        <options>
+          <option name="flow" value="free" />
+          <option name="wraplistitems" value="false" />
+          <option name="tooltips" value="true" />
+          <option name="autocollapse" value="true" />
+          <option name="autonumber" value="false" />
+          <option name="enableresultsicons" value="true" />
+        </options>
+      </optiongroup>
+      <optiongroup name="controls">
+        <options>
+          <option name="volume" value="true" />
+          <option name="seekbar" value="false">
+            <options>
+              <option name="readonly" value="false" />
+            </options>
+          </option>
+          <option name="pauseplay" value="false" />
+          <option name="replay" value="false" />
+          <option name="search" value="true" />
+          <option name="closed_captions" value="true">
+            <options>
+              <option name="font" value="Open Sans" />
+            </options>
+          </option>
+        </options>
+      </optiongroup>
+      <optiongroup name="bottombaroptions">
+        <options>
+          <option name="bottombar_enabled" value="true" />
+        </options>
+      </optiongroup>
+    </optiongroups>
+  </control_options>
+  <control_layouts>
+    <control_layout name="npnxnanbsnfns01001010111">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="false" />
+      <control name="submit" enabled="true" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="true" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="pxabnsnfns01001010111">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="true" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="npxnabnsnfns01001010111">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="true" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="npnxnanbnsnfns01001010111">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="false" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="true" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="pxabnsnfns01001010110">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="true" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="false" />
+    </control_layout>
+    <control_layout name="pxabnsnfns01001100111">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="true" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="pnxanbnsnfns01001100111">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="false" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="true" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="pxabnsnfns11111100111">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="true" />
+      <control name="replay" enabled="true" />
+      <control name="pauseplay" enabled="true" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="true" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+  </control_layouts>
+  <colorschemes>
+    <colorscheme name="pxabnsnfns01001010111">
+      <color_group name="infopanel">
+        <group_colors>
+          <color name="link_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x7C2280" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="link_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0000EE" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="name_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="title_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x999999" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="infopanelpopup">
+        <group_colors>
+          <color name="link_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x7C2280" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="link_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0000EE" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE9E9E9" alpha="100" stop="0" />
+                <color rgb="0xCFCFCF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="name_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bio_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x999999" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="timer">
+        <group_colors>
+          <color name="duration">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x00D7FF" alpha="100" stop="0" />
+                <color rgb="0x00ABFF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="elapsed">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFEE347" alpha="100" stop="0" />
+                <color rgb="0xFCCC2A" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="stroke">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC7C7C7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x555555" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="window">
+        <group_colors>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x555555" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xEAEAEA" alpha="100" stop="0" />
+                <color rgb="0xCFCFCF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF3F3F3" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF7F7F7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD3D3D3" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="20" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="editor">
+        <group_colors>
+          <color name="slide_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x555555" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="html_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF5F5F5" alpha="100" stop="0" />
+                <color rgb="0xC7C7C7" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF2F2F2" alpha="100" stop="0" />
+                <color rgb="0xAFAFAF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_down">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC7C7C7" alpha="100" stop="0" />
+                <color rgb="0xF4F4F4" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB1B1B1" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x353535" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF0F0F0" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="listitem">
+        <group_colors>
+          <color name="selected_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x353535" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="lines">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xDFDFDF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE6E6E6" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="viewed">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x909090" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x353535" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC0E2F1" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="base">
+        <group_colors>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x555555" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD3D3D3" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF7F7F7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE9E9E9" alpha="100" stop="0" />
+                <color rgb="0xCFCFCF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE9E9E9" alpha="100" stop="0" />
+                <color rgb="0xF3F3F3" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="menu_shade">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xDBDBDB" alpha="100" stop="0" />
+                <color rgb="0xC3C3C3" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slide_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE9E9E9" alpha="100" stop="0" />
+                <color rgb="0xCFCFCF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="button">
+        <group_colors>
+          <color name="btn_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF5F5F5" alpha="100" stop="0" />
+                <color rgb="0xC7C7C7" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF2F2F2" alpha="100" stop="0" />
+                <color rgb="0xAFAFAF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_down">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC7C7C7" alpha="100" stop="0" />
+                <color rgb="0xF4F4F4" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB1B1B1" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x353535" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF0F0F0" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x353535" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_glow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xCFCFCF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="checkbox">
+        <group_colors>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="check">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x33CC00" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x6BF8FF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="logo">
+        <group_colors>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="menu">
+        <group_colors>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF3F3F3" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="scrollarea">
+        <group_colors>
+          <color name="bg">
+            <fill type="linear" rotation="0">
+              <colors>
+                <color rgb="0xDEDEDE" alpha="100" stop="0" />
+                <color rgb="0xE8E8E8" alpha="100" stop="128" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF6F6F6" alpha="100" stop="0" />
+                <color rgb="0xF3F3F3" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC4C4C4" alpha="100" stop="0" />
+                <color rgb="0xB2B2B2" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xCBCBCB" alpha="100" stop="0" />
+                <color rgb="0xBABABA" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="icons">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x555555" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD9D9D9" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="detaila">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xA7A7A7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="detailb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xCFCFCF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="searchinput">
+        <group_colors>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xDFDFDF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xADADAD" alpha="100" stop="0" />
+                <color rgb="0xFAFAFA" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="icon">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x8A8A8A" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF5F5F5" alpha="100" stop="0" />
+                <color rgb="0xC7C7C7" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover_glow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x6BF8FF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="search_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x8A8A8A" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg_active">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFAFAFA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text_active">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x333333" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="seekcontrol">
+        <group_colors>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF5F5F5" alpha="100" stop="0" />
+                <color rgb="0xC7C7C7" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB1B1B1" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="100" stop="0" />
+                <color rgb="0xEEEEEE" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE7E7E7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_position">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2D2D2D" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x555555" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF0F0F0" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="tabs">
+        <group_colors>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF3F3F3" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x555555" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x333333" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x333333" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF0F0F0" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="transcript">
+        <group_colors>
+          <color name="div">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE1E1E1" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="heading_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="outline">
+        <group_colors>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC6C6C6" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF9F9F9" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divc">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE1E1E1" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="search_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="search_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0000EE" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="resource">
+        <group_colors>
+          <color name="separator">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE0E0E0" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="glossary">
+        <group_colors>
+          <color name="selected_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x353535" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC0E2F1" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x353535" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE6E6E6" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE2E2E2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE2E2E2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divc">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFAFAFA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE7E7E7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="heading_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="volume">
+        <group_colors>
+          <color name="thumb_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xA5A5A5" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="thumb_inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD4D4D4" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="thumb_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC8C8C8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slider_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF2F2F2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slider_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xBCBCBC" alpha="100" stop="0" />
+                <color rgb="0xBCBCBC" alpha="100" stop="128" />
+                <color rgb="0xC3C3C3" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+    </colorscheme>
+  </colorschemes>
+  <string_tables>
+    <string_table name="pxabnsnfns01001010111">
+      <string id="acc_active">active</string>
+      <string id="check_include">Check to include</string>
+      <string id="clear">Clear and return to menu</string>
+      <string id="close">Close</string>
+      <string id="acc_closed_captions">Closed captions. Press the spacebar to toggle captions on and off.</string>
+      <string id="continue">Continue</string>
+      <string id="continueresponsive">Continue</string>
+      <string id="exit">Exit</string>
+      <string id="filter">Filter</string>
+      <string id="finish">FINISH</string>
+      <string id="acc_finish">finish</string>
+      <string id="definition">Definition</string>
+      <string id="acc_definition">definition</string>
+      <string id="glossary">Glossary</string>
+      <string id="terms">Terms</string>
+      <string id="outline">Menu</string>
+      <string id="disabled_orientation">Please rotate your device</string>
+      <string id="next">NEXT</string>
+      <string id="acc_next">next</string>
+      <string id="transcript_chk">Notes</string>
+      <string id="transcript">Notes</string>
+      <string id="bio">Bio</string>
+      <string id="more_info">More info</string>
+      <string id="closed_captions">Captions</string>
+      <string id="acc_pause">pause</string>
+      <string id="acc_play">play</string>
+      <string id="send_an_email">Send an email</string>
+      <string id="prev">BACK</string>
+      <string id="acc_previous">previous</string>
+      <string id="question_list">Question List</string>
+      <string id="acc_replay">replay</string>
+      <string id="resources">Resources</string>
+      <string id="acc_resources">resources</string>
+      <string id="restart">Restart</string>
+      <string id="resume">Resume</string>
+      <string id="search">Search...</string>
+      <string id="acc_search_input">search</string>
+      <string id="search_in">Search in:</string>
+      <string id="search_results">Search Results</string>
+      <string id="acc_skipnavigation">Skip navigation. Press enter to return to the slide.</string>
+      <string id="slide_text_chk">Slide Text</string>
+      <string id="submitall">SUBMIT ALL</string>
+      <string id="acc_submitall">submit all</string>
+      <string id="submit">SUBMIT</string>
+      <string id="acc_submit">submit</string>
+      <string id="acc_volume">volume</string>
+    </string_table>
+  </string_tables>
+  <fonts>
+    <font name="Open Sans">
+      <files>
+        <file bold="true" italic="false" />
+        <file bold="false" italic="false" />
+      </files>
+    </font>
+    <font name="Arial">
+      <files>
+        <file bold="false" italic="false" />
+      </files>
+    </font>
+    <font name="Calibri">
+      <files>
+        <file bold="false" italic="false" />
+      </files>
+    </font>
+  </fonts>
+  <sounds enabled="true" />
+  <nav_data>
+    <outline>
+      <links>
+        <slidelink slideid="_player.6obrQjcnQhP" displaytext="Info" expand="false" type="slide">
+          <links>
+            <slidelink slideid="_player.6obrQjcnQhP.6kszJkf2I1t" displaytext="Getting Started" expand="false" type="slide" />
+            <slidelink slideid="_player.6obrQjcnQhP.5wI8mgeQwK5" displaytext="What You'll Learn" expand="false" type="slide" />
+            <slidelink slideid="_player.6obrQjcnQhP.5v7wMOR30g7" displaytext="Button" expand="false" type="slide" />
+            <slidelink slideid="_player.6obrQjcnQhP.6bDP6viPK0M" displaytext="Phone or Computer?" expand="false" type="slide" />
+            <slidelink slideid="_player.6obrQjcnQhP.6HQf54Tu3GU" displaytext="Phone - Swipe Left to Go Forward" expand="false" type="slide" />
+            <slidelink slideid="_player.6obrQjcnQhP.5YjnDnt9E3O" displaytext="Computer - Click Next" expand="false" type="slide" />
+            <slidelink slideid="_player.6obrQjcnQhP.632mQWcraqb" displaytext="Computer - Click Back" expand="false" type="slide" />
+            <slidelink slideid="_player.6obrQjcnQhP.6WXkdcvt6vh" displaytext="Computer - Click Next (again)" expand="false" type="slide" />
+            <slidelink slideid="_player.6obrQjcnQhP.6FasNJScmy1" displaytext="Computer - Glossary" expand="false" type="slide" />
+            <slidelink slideid="_player.6obrQjcnQhP.6QBi5e0rWsD" displaytext="Computer - Menu" expand="false" type="slide" />
+            <slidelink slideid="_player.6obrQjcnQhP.6Rjnzgs75Ge" displaytext="Computer - Menu (2)" expand="false" type="slide" />
+            <slidelink slideid="_player.6obrQjcnQhP.5zO31JIQDNr" displaytext="Computer - Summary" expand="false" type="slide" />
+            <slidelink slideid="_player.6obrQjcnQhP.5jpXKXLOwRv" displaytext="Phone - Swipe Right to Go Back" expand="false" type="slide" />
+            <slidelink slideid="_player.6obrQjcnQhP.68KTW0cK2lw" displaytext="Phone - Swipe Left to Continue (Again)" expand="false" type="slide" />
+            <slidelink slideid="_player.6obrQjcnQhP.6OMvCoRbx0y" displaytext="Phone - Menu &amp; Glossary" expand="false" type="slide" />
+            <slidelink slideid="_player.6obrQjcnQhP.68eKr8dVPzE" displaytext="Phone - Summary " expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.6hCC1Xm7ZNf" displaytext="Earning " expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.6hCC1Xm7ZNf.6H9BAlg4lMs" displaytext="Earning " expand="false" type="slide" />
+            <slidelink slideid="_player.6hCC1Xm7ZNf.64IjXk8hDsN" displaytext="What You'll Learn" expand="false" type="slide" />
+            <slidelink slideid="_player.6hCC1Xm7ZNf.5ukX7hxI2Rq" displaytext="Check Your Understanding" expand="false" type="slide" />
+            <slidelink slideid="_player.6hCC1Xm7ZNf.5pzTjK0FULS" displaytext="What is Earning? (1)" expand="false" type="slide" />
+            <slidelink slideid="_player.6hCC1Xm7ZNf.6NUmN67HtPO" displaytext="What is Income?" expand="false" type="slide" />
+            <slidelink slideid="_player.6hCC1Xm7ZNf.6FbHvDxzVrj" displaytext="How Do You Get Income? (3)" expand="false" type="slide" />
+            <slidelink slideid="_player.6hCC1Xm7ZNf.6qHlYKrxt5M" displaytext="Sources of Income T/F" expand="false" type="slide" />
+            <slidelink slideid="_player.6hCC1Xm7ZNf.6fZNZrybyyb" displaytext="Sources of Income Summary " expand="false" type="slide" />
+            <slidelink slideid="_player.6hCC1Xm7ZNf.6izPQAOwY8q" displaytext="Banks (Tiering)" expand="false" type="slide" />
+            <slidelink slideid="_player.6hCC1Xm7ZNf.5m3wyPEVw8W" displaytext="Banking (1)" expand="false" type="slide" />
+            <slidelink slideid="_player.6hCC1Xm7ZNf.5acjmw1GQSn" displaytext="Credit Unions" expand="false" type="slide" />
+            <slidelink slideid="_player.6hCC1Xm7ZNf.6Xs2dJSUcO0" displaytext="Two Bank Accounts" expand="false" type="slide" />
+            <slidelink slideid="_player.6hCC1Xm7ZNf.6d1Xy7tB5Uu" displaytext="Active" expand="false" type="slide" />
+            <slidelink slideid="_player.6hCC1Xm7ZNf.5edHK6tZ8C0" displaytext="Debit &amp; Check" expand="false" type="slide" />
+            <slidelink slideid="_player.6hCC1Xm7ZNf.6pQMQuYrs8B" displaytext="Transfer" expand="false" type="slide" />
+            <slidelink slideid="_player.6hCC1Xm7ZNf.6JcAiKTf8r8" displaytext="Savings" expand="false" type="slide" />
+            <slidelink slideid="_player.6hCC1Xm7ZNf.60Sj1Vqvqnu" displaytext="T/F Bank Safety" expand="false" type="slide" />
+            <slidelink slideid="_player.6hCC1Xm7ZNf.5iImh2DN34r" displaytext="T/F Cash a Check" expand="false" type="slide" />
+            <slidelink slideid="_player.6hCC1Xm7ZNf.6PHDNopNjhv" displaytext="T/F Money to Open an Account" expand="false" type="slide" />
+            <slidelink slideid="_player.6hCC1Xm7ZNf.6n8AiZPaMtK" displaytext="Savings" expand="false" type="slide" />
+            <slidelink slideid="_player.6hCC1Xm7ZNf.6iK7Oqx23dc" displaytext="Paychecks" expand="false" type="slide" />
+            <slidelink slideid="_player.6hCC1Xm7ZNf.609q2AV5Jw1" displaytext="Paychecks" expand="false" type="slide" />
+            <slidelink slideid="_player.6hCC1Xm7ZNf.6d34DRcDZDL" displaytext="Deductions" expand="false" type="slide" />
+            <slidelink slideid="_player.6hCC1Xm7ZNf.5XbNFUjDUo2" displaytext="Deductions Example" expand="false" type="slide" />
+            <slidelink slideid="_player.6hCC1Xm7ZNf.6TH04U1cMds" displaytext="Paystubs" expand="false" type="slide" />
+            <slidelink slideid="_player.6hCC1Xm7ZNf.6p4pyHm6Yy5" displaytext="Paystub - Hourly Rate" expand="false" type="slide" />
+            <slidelink slideid="_player.6hCC1Xm7ZNf.6M3OFflCBkJ" displaytext="Paystub - Taxes" expand="false" type="slide" />
+            <slidelink slideid="_player.6hCC1Xm7ZNf.6WVZzSoyg57" displaytext="Paystub - Totals" expand="false" type="slide" />
+            <slidelink slideid="_player.6hCC1Xm7ZNf.6memvemYFM2" displaytext="Paystub - Paycheck" expand="false" type="slide" />
+            <slidelink slideid="_player.6hCC1Xm7ZNf.6qdGbPygSHt" displaytext="Paychecks" expand="false" type="slide" />
+            <slidelink slideid="_player.6hCC1Xm7ZNf.6aMvUHQl0nU" displaytext="Reading a Paystub - Hourly Rate" expand="false" type="slide" />
+            <slidelink slideid="_player.6hCC1Xm7ZNf.63tZ5JNHLTo" displaytext="Reading a Paystub - Part-time or Full-time" expand="false" type="slide" />
+            <slidelink slideid="_player.6hCC1Xm7ZNf.6gmlwHiPbX1" displaytext="Reading a Paystub - Date of Check" expand="false" type="slide" />
+            <slidelink slideid="_player.6hCC1Xm7ZNf.5ctUYPMhUzk" displaytext="Taxes (Tiering)" expand="false" type="slide" />
+            <slidelink slideid="_player.6hCC1Xm7ZNf.6aX4fQdeSda" displaytext="What are taxes for?" expand="false" type="slide" />
+            <slidelink slideid="_player.6hCC1Xm7ZNf.6UMxViW1OIg" displaytext="Filing Taxes" expand="false" type="slide" />
+            <slidelink slideid="_player.6hCC1Xm7ZNf.68SRPNde2yY" displaytext="Free Tax Preparation" expand="false" type="slide" />
+            <slidelink slideid="_player.6hCC1Xm7ZNf.5adb8nGLU0O" displaytext="Tax Preparation" expand="false" type="slide" />
+            <slidelink slideid="_player.6hCC1Xm7ZNf.6T2oxTBFnoh" displaytext="Paychecks" expand="false" type="slide" />
+            <slidelink slideid="_player.6hCC1Xm7ZNf.5eXq6YnCEWN" displaytext="Reading a Paystub - Deductions" expand="false" type="slide" />
+            <slidelink slideid="_player.6hCC1Xm7ZNf.5XZ0v2P9YZZ" displaytext="Reading a Paystub - Benefits" expand="false" type="slide" />
+            <slidelink slideid="_player.6hCC1Xm7ZNf.5lmK8oN6Pvp" displaytext="Depositing a Check" expand="false" type="slide" />
+            <slidelink slideid="_player.6hCC1Xm7ZNf.6o3E6p1KBuL" displaytext="Depositing a Check (1)" expand="false" type="slide" />
+            <slidelink slideid="_player.6hCC1Xm7ZNf.6iUlBP9kIZt" displaytext="Deposit the Paycheck" expand="false" type="slide" />
+            <slidelink slideid="_player.6hCC1Xm7ZNf.6773RcZuQzg" displaytext="How Do You Get Income? (3)" expand="false" type="slide" />
+            <slidelink slideid="_player.6hCC1Xm7ZNf.6nWwPztqWbP" displaytext="Check Deposit Methods" expand="false" type="slide" />
+            <slidelink slideid="_player.6hCC1Xm7ZNf.6kD6HsnTu2y" displaytext="How Do You Get Income? (3)" expand="false" type="slide" />
+            <slidelink slideid="_player.6hCC1Xm7ZNf.5lnb4fhB2W8" displaytext="Check Your Understanding" expand="false" type="slide" />
+            <slidelink slideid="_player.6hCC1Xm7ZNf.5b9kerE1WrV" displaytext="What's Next" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.6fw90DCooK3" displaytext="Spending" expand="false" type="slide">
+          <links>
+            <slidelink slideid="_player.6fw90DCooK3.5ZsitBp2BTf" displaytext="Spending" expand="false" type="slide" />
+            <slidelink slideid="_player.6fw90DCooK3.5sDdg4wdoBK" displaytext="What You'll Learn" expand="false" type="slide" />
+            <slidelink slideid="_player.6fw90DCooK3.5hezAjxTGtx" displaytext="Check Your Understanding" expand="false" type="slide" />
+            <slidelink slideid="_player.6fw90DCooK3.6V4nxKgyZgH" displaytext="What You'll Learn" expand="false" type="slide" />
+            <slidelink slideid="_player.6fw90DCooK3.5zSIcUFzPqB" displaytext="Needs vs. Wants" expand="false" type="slide" />
+            <slidelink slideid="_player.6fw90DCooK3.62UG8hMBnrB" displaytext="Activity - Needs vs. Wants" expand="false" type="slide" />
+            <slidelink slideid="_player.6fw90DCooK3.5yiyLLfhgBu" displaytext="What is a Budget?" expand="false" type="slide" />
+            <slidelink slideid="_player.6fw90DCooK3.60JqwpaJ2oj" displaytext="February Budget" expand="false" type="slide" />
+            <slidelink slideid="_player.6fw90DCooK3.5wYxKucwI41" displaytext="Reduce Expenses" expand="false" type="slide" />
+            <slidelink slideid="_player.6fw90DCooK3.6oTxKxxVWJy" displaytext="Electricity/Gas" expand="false" type="slide" />
+            <slidelink slideid="_player.6fw90DCooK3.6WVWSfziqnW" displaytext="Transportation" expand="false" type="slide" />
+            <slidelink slideid="_player.6fw90DCooK3.6CS0Lu5v5t1" displaytext="Food" expand="false" type="slide" />
+            <slidelink slideid="_player.6fw90DCooK3.6mvrbJDUHez" displaytext="Clothing" expand="false" type="slide" />
+            <slidelink slideid="_player.6fw90DCooK3.5f2GzKFBgmC" displaytext="Cigarettes" expand="false" type="slide" />
+            <slidelink slideid="_player.6fw90DCooK3.6PpHJul8LlS" displaytext="Electronics" expand="false" type="slide" />
+            <slidelink slideid="_player.6fw90DCooK3.5Y2UBurG481" displaytext="March Budget" expand="false" type="slide" />
+            <slidelink slideid="_player.6fw90DCooK3.5tDJgQZOsVe" displaytext="March Budget" expand="false" type="slide" />
+            <slidelink slideid="_player.6fw90DCooK3.6dSV1OxLMad" displaytext="April Budget" expand="false" type="slide" />
+            <slidelink slideid="_player.6fw90DCooK3.6Azo0kKc9gg" displaytext="Left Over Money" expand="false" type="slide" />
+            <slidelink slideid="_player.6fw90DCooK3.6BSBtvnxGrS" displaytext="Ways to Spend Money" expand="false" type="slide" />
+            <slidelink slideid="_player.6fw90DCooK3.683R6DHtGGF" displaytext="What is an ATM?" expand="false" type="slide" />
+            <slidelink slideid="_player.6fw90DCooK3.6HyHejNk0Wo" displaytext="Credit Unions" expand="false" type="slide" />
+            <slidelink slideid="_player.6fw90DCooK3.5qmH1ktByWJ" displaytext="Withdrawing Money" expand="false" type="slide" />
+            <slidelink slideid="_player.6fw90DCooK3.6eH2BCvDOSy" displaytext="ATM - Insert Debit Card" expand="false" type="slide" />
+            <slidelink slideid="_player.6fw90DCooK3.6lIpBXPrxQM" displaytext="ATM - Remove Debit Card" expand="false" type="slide" />
+            <slidelink slideid="_player.6fw90DCooK3.6moR6hjvj6s" displaytext="ATM - PIN (1)" expand="false" type="slide" />
+            <slidelink slideid="_player.6fw90DCooK3.5VZvzs7e8Tq" displaytext="ATM - PIN (2)" expand="false" type="slide" />
+            <slidelink slideid="_player.6fw90DCooK3.6eEpjZ0oRTL" displaytext="ATM - PIN (3)" expand="false" type="slide" />
+            <slidelink slideid="_player.6fw90DCooK3.69pQAjfI6CB" displaytext="ATM - PIN (4)" expand="false" type="slide" />
+            <slidelink slideid="_player.6fw90DCooK3.6FpY0W2dv6n" displaytext="ATM - Enter" expand="false" type="slide" />
+            <slidelink slideid="_player.6fw90DCooK3.6HNvuwEsBlw" displaytext="ATM - Select an account" expand="false" type="slide" />
+            <slidelink slideid="_player.6fw90DCooK3.5bjiq17QaQT" displaytext="ATM - Select an Option" expand="false" type="slide" />
+            <slidelink slideid="_player.6fw90DCooK3.6MfCJB21BzO" displaytext="ATM - Select Amount" expand="false" type="slide" />
+            <slidelink slideid="_player.6fw90DCooK3.6g43EQu5qnu" displaytext="ATM - Take Your Cash" expand="false" type="slide" />
+            <slidelink slideid="_player.6fw90DCooK3.6p0pHyx9sFh" displaytext="ATM - Anything Else?" expand="false" type="slide" />
+            <slidelink slideid="_player.6fw90DCooK3.6LyFxSjXUIO" displaytext="ATM - Receipt" expand="false" type="slide" />
+            <slidelink slideid="_player.6fw90DCooK3.5pqqJheIGFk" displaytext="ATM - Thank You! " expand="false" type="slide" />
+            <slidelink slideid="_player.6fw90DCooK3.6mFV5Iu6Mde" displaytext="Writing a Check" expand="false" type="slide" />
+            <slidelink slideid="_player.6fw90DCooK3.656dDAMAwW9" displaytext="Write the Check" expand="false" type="slide" />
+            <slidelink slideid="_player.6fw90DCooK3.5kxXBZOYlJ0" displaytext="Deposit the Check" expand="false" type="slide" />
+            <slidelink slideid="_player.6fw90DCooK3.5w6zED5x3fb" displaytext="Money is Transferred" expand="false" type="slide" />
+            <slidelink slideid="_player.6fw90DCooK3.6FFQbgfaIU6" displaytext="Help Write a Check" expand="false" type="slide" />
+            <slidelink slideid="_player.6fw90DCooK3.5uH2QyXbRlU" displaytext="Help Write a Check" expand="false" type="slide" />
+            <slidelink slideid="_player.6fw90DCooK3.5Zj5m3yu7gg" displaytext="Other Ways to Spend" expand="false" type="slide" />
+            <slidelink slideid="_player.6fw90DCooK3.67GPSWJ2k3k" displaytext="Money Orders" expand="false" type="slide" />
+            <slidelink slideid="_player.6fw90DCooK3.5hotEidibwX" displaytext="Venmo" expand="false" type="slide" />
+            <slidelink slideid="_player.6fw90DCooK3.6WgkEtRjNgC" displaytext="Western Union" expand="false" type="slide" />
+            <slidelink slideid="_player.6fw90DCooK3.6WB36ekCvy2" displaytext="PayPal" expand="false" type="slide" />
+            <slidelink slideid="_player.6fw90DCooK3.66aHlPIeSN7" displaytext="Check Your Understanding" expand="false" type="slide" />
+            <slidelink slideid="_player.6fw90DCooK3.5v0lzlAfRZA" displaytext="What's Next" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.6gcMFytiKmR" displaytext="Borrowing" expand="false" type="slide">
+          <links>
+            <slidelink slideid="_player.6gcMFytiKmR.6RLdjLk3RSc" displaytext="Borrowing" expand="false" type="slide" />
+            <slidelink slideid="_player.6gcMFytiKmR.6mimKBaWtPR" displaytext="What You'll Learn" expand="false" type="slide" />
+            <slidelink slideid="_player.6gcMFytiKmR.6Bny42Y0iEC" displaytext="Check Your Understanding" expand="false" type="slide" />
+            <slidelink slideid="_player.6gcMFytiKmR.6d3wxDrPSQW" displaytext="Borrowing Scenarios" expand="false" type="slide" />
+            <slidelink slideid="_player.6gcMFytiKmR.5eFypC6v0xI" displaytext="Car Loan Scenario" expand="false" type="slide" />
+            <slidelink slideid="_player.6gcMFytiKmR.5iS7LG4ON0H" displaytext="Interest Rate" expand="false" type="slide" />
+            <slidelink slideid="_player.6gcMFytiKmR.5W03Dgvtq5L" displaytext="Interest Rates" expand="false" type="slide" />
+            <slidelink slideid="_player.6gcMFytiKmR.5t28sNrqREH" displaytext="Credit Score" expand="false" type="slide" />
+            <slidelink slideid="_player.6gcMFytiKmR.6i7x6ZkIKKf" displaytext="Credit Score Scenario" expand="false" type="slide" />
+            <slidelink slideid="_player.6gcMFytiKmR.6JanFL62rml" displaytext="Credit Score Activity" expand="false" type="slide" />
+            <slidelink slideid="_player.6gcMFytiKmR.6hF2Gal07yU" displaytext="Importance of Credit Score" expand="false" type="slide" />
+            <slidelink slideid="_player.6gcMFytiKmR.6UpOQW0BvgF" displaytext="Check Your Credit Score" expand="false" type="slide" />
+            <slidelink slideid="_player.6gcMFytiKmR.66tICJAQRTr" displaytext="Credit Card vs. Debit Card" expand="false" type="slide" />
+            <slidelink slideid="_player.6gcMFytiKmR.5kUmZ4nhcs8" displaytext="How Credit Cards Work" expand="false" type="slide" />
+            <slidelink slideid="_player.6gcMFytiKmR.5dLLFYCSPsW" displaytext="Credit Card Scenario" expand="false" type="slide" />
+            <slidelink slideid="_player.6gcMFytiKmR.6oi3GHg4fBc" displaytext="Credit Card Statements" expand="false" type="slide" />
+            <slidelink slideid="_player.6gcMFytiKmR.5sfmFc1SAhi" displaytext="What would happen?" expand="false" type="slide" />
+            <slidelink slideid="_player.6gcMFytiKmR.6oSPPichb5N" displaytext="What would happen?" expand="false" type="slide" />
+            <slidelink slideid="_player.6gcMFytiKmR.6IdaDr15V2i" displaytext="Late Fees &amp; Interest" expand="false" type="slide" />
+            <slidelink slideid="_player.6gcMFytiKmR.6p49tAyXJOI" displaytext="Debt Scenario" expand="false" type="slide" />
+            <slidelink slideid="_player.6gcMFytiKmR.6C0YZ25Db94" displaytext="Review" expand="false" type="slide" />
+            <slidelink slideid="_player.6gcMFytiKmR.5twIAe7QLnK" displaytext="Check Your Understanding" expand="false" type="slide" />
+            <slidelink slideid="_player.6gcMFytiKmR.5nVFTcKThVP" displaytext="What's Next?" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.5dUgghGgApD" displaytext="Saving &amp; Protecting" expand="false" type="slide">
+          <links>
+            <slidelink slideid="_player.5dUgghGgApD.6JiawmbgdAt" displaytext="Saving &amp; Protecting" expand="false" type="slide" />
+            <slidelink slideid="_player.5dUgghGgApD.5r9j2Ey0AxM" displaytext="What You'll Learn" expand="false" type="slide" />
+            <slidelink slideid="_player.5dUgghGgApD.5h7Du3CD4tX" displaytext="Check Your Understanding" expand="false" type="slide" />
+            <slidelink slideid="_player.5dUgghGgApD.6P2xPqStGC7" displaytext="Why Save Money?" expand="false" type="slide" />
+            <slidelink slideid="_player.5dUgghGgApD.6ea7SUZdOBt" displaytext="What are savings for?" expand="false" type="slide" />
+            <slidelink slideid="_player.5dUgghGgApD.5c8s2uQtlh6" displaytext="Help Guillermo Save!" expand="false" type="slide" />
+            <slidelink slideid="_player.5dUgghGgApD.63Ln6B5CFlU" displaytext="Variable Expenses" expand="false" type="slide" />
+            <slidelink slideid="_player.5dUgghGgApD.5Z9vublAAso" displaytext="Does it vary?" expand="false" type="slide" />
+            <slidelink slideid="_player.5dUgghGgApD.5w6h4noNqSA" displaytext="Make Room for Savings" expand="false" type="slide" />
+            <slidelink slideid="_player.5dUgghGgApD.6ZKDcj4dK1c" displaytext="How to Keep Money Safe" expand="false" type="slide" />
+            <slidelink slideid="_player.5dUgghGgApD.6ItKGnm4ttD" displaytext="Banks (Tiering)" expand="false" type="slide" />
+            <slidelink slideid="_player.5dUgghGgApD.6Ojq7aA73bW" displaytext="Two Bank Accounts" expand="false" type="slide" />
+            <slidelink slideid="_player.5dUgghGgApD.6l0g6igeyPa" displaytext="Active" expand="false" type="slide" />
+            <slidelink slideid="_player.5dUgghGgApD.6O2xJeqEmti" displaytext="Debit &amp; Check" expand="false" type="slide" />
+            <slidelink slideid="_player.5dUgghGgApD.5grVDzzjywv" displaytext="Transfer" expand="false" type="slide" />
+            <slidelink slideid="_player.5dUgghGgApD.5bqLBHDnJ2X" displaytext="Savings" expand="false" type="slide" />
+            <slidelink slideid="_player.5dUgghGgApD.6C0uDlCy4CG" displaytext="Savings &amp; Interest" expand="false" type="slide" />
+            <slidelink slideid="_player.5dUgghGgApD.5i6eGJ967Xh" displaytext="Other Ways to Save " expand="false" type="slide" />
+            <slidelink slideid="_player.5dUgghGgApD.6rmbVRwhQAG" displaytext="What is Fraud?" expand="false" type="slide" />
+            <slidelink slideid="_player.5dUgghGgApD.6qLTSk6AGIE" displaytext="Fraud or Normal?" expand="false" type="slide" />
+            <slidelink slideid="_player.5dUgghGgApD.5VMCNRDGX1H" displaytext="How to Prevent Fraud" expand="false" type="slide" />
+            <slidelink slideid="_player.5dUgghGgApD.6DliNN93XhA" displaytext="Tracking Money" expand="false" type="slide" />
+            <slidelink slideid="_player.5dUgghGgApD.5w6SmZ6jzvk" displaytext="Bank Statement" expand="false" type="slide" />
+            <slidelink slideid="_player.5dUgghGgApD.6FU1ehxj0kc" displaytext="Setting a Goal" expand="false" type="slide" />
+            <slidelink slideid="_player.5dUgghGgApD.6SmM8yFPK8M" displaytext="Components of a Goal" expand="false" type="slide" />
+            <slidelink slideid="_player.5dUgghGgApD.5x10zPj3NX1" displaytext="Goal Scenario" expand="false" type="slide" />
+            <slidelink slideid="_player.5dUgghGgApD.6Yu2bo7Dtbs" displaytext="What’s Your Goal?" expand="false" type="slide" />
+            <slidelink slideid="_player.5dUgghGgApD.5YAgSjOpEg4" displaytext="Check Your Understanding" expand="false" type="slide" />
+            <slidelink slideid="_player.5dUgghGgApD.6m9qNAZkwFi" displaytext="What's Next?" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.6dfGHseWnga" displaytext="Credits" expand="false" type="slide">
+          <links>
+            <slidelink slideid="_player.6dfGHseWnga.6XSGQh9xq3X" displaytext="Credits" expand="false" type="slide" />
+          </links>
+        </slidelink>
+      </links>
+    </outline>
+    <search>
+      <slidetext slideid="6obrQjcnQhP.6kszJkf2I1t" slidebank="false" type="slide">financial literacy getting started 35 minutes  go! go! go! in this lesson, you will learn how to navigate this course. </slidetext>
+      <slidetext slideid="6obrQjcnQhP.5wI8mgeQwK5" slidebank="false" type="slide">what you’ll learn in this course, you will learn to: build confidence with your finances gain a feeling of control over your money learn to earn, save, spend, borrow wisely  understand the banking system in the u.s. financial literacy go! go! go! 5 minutes: learn how to navigate through this course. </slidetext>
+      <slidetext slideid="6obrQjcnQhP.5v7wMOR30g7" slidebank="false" type="slide">go! go! go! tap the button </slidetext>
+      <slidetext slideid="6obrQjcnQhP.6bDP6viPK0M" slidebank="false" type="slide">phone phone phone computer computer computer are you on a phone or a computer? </slidetext>
+      <slidetext slideid="6obrQjcnQhP.6HQf54Tu3GU" slidebank="false" type="slide">swipe to the left to continue </slidetext>
+      <slidetext slideid="6obrQjcnQhP.5YjnDnt9E3O" slidebank="false" type="slide">click next to continue </slidetext>
+      <slidetext slideid="6obrQjcnQhP.632mQWcraqb" slidebank="false" type="slide">click back to go back </slidetext>
+      <slidetext slideid="6obrQjcnQhP.6WXkdcvt6vh" slidebank="false" type="slide">click next to continue </slidetext>
+      <slidetext slideid="6obrQjcnQhP.6FasNJScmy1" slidebank="false" type="slide">click the glossary tab on the menu to see definitions of key terms then click next to continue </slidetext>
+      <slidetext slideid="6obrQjcnQhP.6QBi5e0rWsD" slidebank="false" type="slide">click the menu tab to see a list of slides then click next to continue </slidetext>
+      <slidetext slideid="6obrQjcnQhP.6Rjnzgs75Ge" slidebank="false" type="slide">click the computer – summary title on the menu tab to jump to the summary slide. </slidetext>
+      <slidetext slideid="6obrQjcnQhP.5zO31JIQDNr" slidebank="false" type="slide">click the menu to jump to a specific slide click glossary to see definitions of words click the menu 03 click next to continue click back to go back click to move 02 click buttons to take actions or make decisions on the slide click the buttons 01 sumamry navigation go! go! go! </slidetext>
+      <slidetext slideid="6obrQjcnQhP.5jpXKXLOwRv" slidebank="false" type="slide">swipe to the right to go back </slidetext>
+      <slidetext slideid="6obrQjcnQhP.68KTW0cK2lw" slidebank="false" type="slide">swipe to the left to continue </slidetext>
+      <slidetext slideid="6obrQjcnQhP.6OMvCoRbx0y" slidebank="false" type="slide">tap the menu icon to see the menu and glossary.  tap the menu icon again to close. then swipe left to continue.  </slidetext>
+      <slidetext slideid="6obrQjcnQhP.68eKr8dVPzE" slidebank="false" type="slide">tap the menu to jump to a specific slide tap glossary to see definitions of words tap the menu 03 swipe left to go forward swipe right to go back swipe to move 02 tap buttons to take actions and make decisions on the slide tap the buttons 01 sumamry navigation go! go! go! </slidetext>
+      <slidetext slideid="6hCC1Xm7ZNf.6H9BAlg4lMs" slidebank="false" type="slide">35 minutes  earning financial literacy go! go! go! in this lesson, you will learn about earning: making money from a job or public benefits programs.  </slidetext>
+      <slidetext slideid="6hCC1Xm7ZNf.64IjXk8hDsN" slidebank="false" type="slide">go! go! go! what you’ll learn you will be able to:  name 2 sources of income read and complete a paycheck and paystub define taxes  know when and where to go for free tax preparation name 1 benefit of a checking account  describe how to deposit a check  earning 35 minutes: learn about earning money. </slidetext>
+      <slidetext slideid="6hCC1Xm7ZNf.5ukX7hxI2Rq" slidebank="false" type="slide">go! go! go! earning how much do you know? answer the questions and click submit. then tap go!  check your understanding </slidetext>
+      <slidetext slideid="6hCC1Xm7ZNf.5pzTjK0FULS" slidebank="false" type="slide">what is earning? earning money is when you receive money from working at a job or from public benefits. 01 earning </slidetext>
+      <slidetext slideid="6hCC1Xm7ZNf.6NUmN67HtPO" slidebank="false" type="slide">what is income? earning the money you take home is called your income. your income can change every month and come from many sources. 02 </slidetext>
+      <slidetext slideid="6hCC1Xm7ZNf.6FbHvDxzVrj" slidebank="false" type="slide">how do you get income? earning you may receive your income in different ways (not just cash):  03 direct depositmoney is transferred into your bank account from your employer.  work earnings checkmoney is promised through an official paper note that can be deposited in a bank.  work earnings &amp; ssi debit cardmoney is given on a card that can be used to make purchases.  food stamps &amp; wic </slidetext>
+      <slidetext slideid="6hCC1Xm7ZNf.6qHlYKrxt5M" slidebank="false" type="slide">sources of income earning help asha decide if this is a source of income by tapping yes or no: start! start! start! 0/6 </slidetext>
+      <slidetext slideid="6hCC1Xm7ZNf.6fZNZrybyyb" slidebank="false" type="slide">income is money you take home.  there are many sources of income you may have.  you may be paid in cash, by check or receive money on a government-issued card such as wic, snap, or tanf. lottery tickets, coupons and credit cards are not sources of income.  earning sources of income go! go! go! </slidetext>
+      <slidetext slideid="6hCC1Xm7ZNf.6izPQAOwY8q" slidebank="false" type="slide">do you have a bank account? banking yes, i have a bank account. yes, i have a bank account. yes, i have a bank account. yes, i have a bank account. yes, i have a bank account. yes, i have a bank account. no, i do not have a bank account. no, i do not have a bank account. no, i do not have a bank account. no, i do not have a bank account. no, i do not have a bank account. no, i do not have a bank account. earning go! go! go! </slidetext>
+      <slidetext slideid="6hCC1Xm7ZNf.5m3wyPEVw8W" slidebank="false" type="slide">the bank lets you trade in your checks for cash without charging a fee. cashing a check is free putting money in your account helps you not spend money unwisely. banks help you save money the bank keeps your money protected from fires and theft. banks keep your money safe a bank is a financial institution that holds and lends money. what is a bank? earning </slidetext>
+      <slidetext slideid="6hCC1Xm7ZNf.5acjmw1GQSn" slidebank="false" type="slide">credit unions are non-profit financial groups where members own the institution and make decisions based on members’ needs and desires. what is a credit union? earning you may need to live in a certain area or work a certain job to join. you need to be a member credit unions offer more personal care and attention than bigger banks. locally owned credit unions sometimes provide better benefits than banks. credit unions are like banks </slidetext>
+      <slidetext slideid="6hCC1Xm7ZNf.6Xs2dJSUcO0" slidebank="false" type="slide">people usually have 2 accounts in a bank or credit union:  bank accounts earning a savings account a checking account an account at a bank or credit union that is active – money is deposited and withdrawn regularly.  an account at a bank or credit union that earns interest and is not accessed frequently </slidetext>
+      <slidetext slideid="6hCC1Xm7ZNf.6d1Xy7tB5Uu" slidebank="false" type="slide">checking account your checking account is active!  checking account earning this is the account your paycheck is deposited into and where you pay your bills (rent, electricity, water) </slidetext>
+      <slidetext slideid="6hCC1Xm7ZNf.5edHK6tZ8C0" slidebank="false" type="slide">checking account this account is linked to your debit card and check book. checking account earning you can withdraw money easily.   </slidetext>
+      <slidetext slideid="6hCC1Xm7ZNf.6pQMQuYrs8B" slidebank="false" type="slide">savings account checking account you can transfer money to and from your savings account. bank accounts earning warning! if you transfer too often your bank may charge fees. set up a monthly transfer between your accounts to accumulate savings!   </slidetext>
+      <slidetext slideid="6hCC1Xm7ZNf.6JcAiKTf8r8" slidebank="false" type="slide">savings account this account is for money that you save for future purchases or emergencies. savings account earning save money here for a car, home or education </slidetext>
+      <slidetext slideid="6hCC1Xm7ZNf.60Sj1Vqvqnu" slidebank="false" type="slide">it’s safer to keep your money at home because the bank could get robbed and your money would be stolen.  answer the questions to add money to your savings account!  true or false? true true true true true true false false false false false false earning savings account </slidetext>
+      <slidetext slideid="6hCC1Xm7ZNf.5iImh2DN34r" slidebank="false" type="slide">it is free to cash a check at the bank. answer the questions to add money to your savings account!  true or false? true true true true true true false false false false false false earning savings account </slidetext>
+      <slidetext slideid="6hCC1Xm7ZNf.6PHDNopNjhv" slidebank="false" type="slide">you need a lot of money to open a bank account. answer the questions to add money to your savings account!  true or false? true true true true true true false false false false false false earning savings account </slidetext>
+      <slidetext slideid="6hCC1Xm7ZNf.6n8AiZPaMtK" slidebank="false" type="slide">savings account you’re on your way to financial success! congratulations! earning now that we know where to store money, let’s learn about paychecks! </slidetext>
+      <slidetext slideid="6hCC1Xm7ZNf.6iK7Oqx23dc" slidebank="false" type="slide">how much will she earn? she will earn $360. she will earn $360. she will earn $360. she will earn $360. she will earn $360. she will earn $360. she will earn $540. she will earn $540. she will earn $540. she will earn $540. she will earn $540. she will earn $540. earning go! go! go! fatima works as a receptionist at a hotel. she works 30 hours/week and her hourly pay is $12.00. she receives her paycheck every two weeks.  how much money should she make on her paycheck?  she will earn $720. she will earn $720. she will earn $720. she will earn $720. she will earn $720. she will earn $720. </slidetext>
+      <slidetext slideid="6hCC1Xm7ZNf.609q2AV5Jw1" slidebank="false" type="slide">paychecks her employer made a mistake and owes her $208.00. her employer made a mistake and owes her $208.00. her employer made a mistake and owes her $208.00. her employer made a mistake and owes her $208.00. her employer made a mistake and owes her $208.00. her employer made a mistake and owes her $208.00. money was taken from her check to pay the government. money was taken from her check to pay the government. money was taken from her check to pay the government. money was taken from her check to pay the government. money was taken from her check to pay the government. money was taken from her check to pay the government. earning go! go! go! fatima did the math and expected to earn $720.00 on her paycheck. but when she gets her first pay check, she only received $512.00.  what happened?  </slidetext>
+      <slidetext slideid="6hCC1Xm7ZNf.6d34DRcDZDL" slidebank="false" type="slide">when you earn money at work, some money is taken out of your original pay. these are called deductions. they are legal and required. deductions earning for some jobs (usually full-time), you can choose to have money taken out of your paycheck for benefits such as health care, dental care, or help with transportation. you and your employer share the cost. employer benefits the government takes money out of your paycheck to pay for services that benefit everyone, like roads, buses, schools, and the refugee resettlement program. taxes </slidetext>
+      <slidetext slideid="6hCC1Xm7ZNf.5XbNFUjDUo2" slidebank="false" type="slide">earning how much will she earn? fatima earns $720.00 every two weeks, but the hotel takes $163.00 out of her check to pay taxes to the government. $720.00 - $163.00 = $557.00 fatima also gets health insurance from her employer, which is another $45.00 each pay period. $557.00 – $45.00 = $512.00 so fatima receives a paycheck of $512.00 after paying taxes and benefits.  </slidetext>
+      <slidetext slideid="6hCC1Xm7ZNf.6TH04U1cMds" slidebank="false" type="slide">earning paystubs in addition to receiving a paycheck, you will also get a paystub which explains deductions taken from your pay and how your paycheck amount was calculated.  </slidetext>
+      <slidetext slideid="6hCC1Xm7ZNf.6p4pyHm6Yy5" slidebank="false" type="slide">paystubs – hourly rate your hourly rate is how much money you make for each hour you work.  in this example, the hourly rate is $12.25.  earning </slidetext>
+      <slidetext slideid="6hCC1Xm7ZNf.6M3OFflCBkJ" slidebank="false" type="slide">paystubs – taxes on your paystub, you will see the amount of money you pay in taxes for different government programs like medicare and social security.  earning </slidetext>
+      <slidetext slideid="6hCC1Xm7ZNf.6WVZzSoyg57" slidebank="false" type="slide">paystubs – totals net pay is the amount of money you earned after taxes on your paycheck. this is how much money you take home.  you can see the total amount of money you made all year by looking for the year to date amount. earning </slidetext>
+      <slidetext slideid="6hCC1Xm7ZNf.6memvemYFM2" slidebank="false" type="slide">paystubs – paycheck your net pay will be the total amount of your paycheck.  earning </slidetext>
+      <slidetext slideid="6hCC1Xm7ZNf.6qdGbPygSHt" slidebank="false" type="slide">how much did he earn? earning gebre works as a waiter at a local restaurant. he just received his paycheck and paystub but needs your help to understand his earnings.  tap or click go! to begin.  go! go! go! </slidetext>
+      <slidetext slideid="6hCC1Xm7ZNf.6aMvUHQl0nU" slidebank="false" type="slide">what is the hourly rate of pay for gebre? help gebre understand his paystub!  reading a paystub  $40 $40 $40 $40 $40 $40 $11.25 $11.25 $11.25 $11.25 $11.25 $11.25 earning savings account $450 $450 $450 $450 $450 $450 </slidetext>
+      <slidetext slideid="6hCC1Xm7ZNf.63tZ5JNHLTo" slidebank="false" type="slide">does gebre work part-time or full-time? look at the paystub and answer the question. reading a paystub  part-time part-time part-time part-time part-time part-time full-time full-time full-time full-time full-time full-time earning savings account full time - a standard 40-hour work week. this is the typical monday to friday, 40-hour, customary definition of a routine work week. part time - defined by most states as any work week that is less than 40 hours of work per week.  </slidetext>
+      <slidetext slideid="6hCC1Xm7ZNf.6gmlwHiPbX1" slidebank="false" type="slide">what is the check pay date? look at the paycheck and answer the question. reading a paystub  04/06/2017 04/06/2017 04/06/2017 04/06/2017 04/06/2017 04/06/2017 4/22/1997 4/22/1997 4/22/1997 4/22/1997 4/22/1997 4/22/1997 earning savings account </slidetext>
+      <slidetext slideid="6hCC1Xm7ZNf.5ctUYPMhUzk" slidebank="false" type="slide">now let’s take a closer look at taxes.  do you know how the government uses your taxes? taxes yes, i know. yes, i know. yes, i know. yes, i know. yes, i know. yes, i know. no, i don’t know. no, i don’t know. no, i don’t know. no, i don’t know. no, i don’t know. no, i don’t know. earning go! go! go! </slidetext>
+      <slidetext slideid="6hCC1Xm7ZNf.6aX4fQdeSda" slidebank="false" type="slide">taxes are legally taken out of your paycheck and go to the governmentso that they can provide certain things for people. what are taxes for? earning transportation and infrastructurebuses and roads schoolspublic schools and universities public benefitssocial security and medicare  </slidetext>
+      <slidetext slideid="6hCC1Xm7ZNf.5adb8nGLU0O" slidebank="false" type="slide">many organizations can assist you with filing taxes. some are good and honest; others are dishonest and trying to make money off of you. tax preparation earning good tax preparation services the organization is recommended by a caseworker or by your bank. the organization is a non-profit (they do not earn money) they do not charge money for service. if you get a tax refund, they do not expect a portion of it. bad tax preparation services they advertise heavily the organization is a big business that makes money they require a fee, or expect you to give them part of your refund they promise that you will get a lot of money back. </slidetext>
+      <slidetext slideid="6hCC1Xm7ZNf.6UMxViW1OIg" slidebank="false" type="slide">when you submit your tax information before april 15, you include: filing taxes earning discount on your taxes for children or families with low to moderate income.  deductions information on how many people are sharing your income. family size summarizes how much money you made and paid in tax during the year. this is provided by your employer. w2 forms tap the w2 form to zoom in </slidetext>
+      <slidetext slideid="6hCC1Xm7ZNf.68SRPNde2yY" slidebank="false" type="slide">you can get free tax preparation assistance by visiting the irs website: volunteer income tax assistance free tax preparation earning vita sites are generally located at community and neighborhood centers, libraries, schools, shopping malls and other convenient locations across the country. to locate the nearest vita site near you, call 800-906-9887. where to find vita the volunteer income tax assistance (vita) program offers free tax help to people who generally make $56,000 or less, persons with disabilities and limited english speaking taxpayers who need assistance in preparing their own tax returns. irs-certified volunteers provide free basic income tax return preparation with electronic filing to qualified individuals.  volunteer income tax assistance (vita) </slidetext>
+      <slidetext slideid="6hCC1Xm7ZNf.6T2oxTBFnoh" slidebank="false" type="slide">how much does he pay? earning gebre needs your help to understand his tax and benefits deductions. tap or click go! to begin.  go! go! go! </slidetext>
+      <slidetext slideid="6hCC1Xm7ZNf.5eXq6YnCEWN" slidebank="false" type="slide">how much money was deducted from gebre’s paycheck this period for social security tax? look at the paystub and answer the question. reading a paystub  $12.49 $12.49 $12.49 $12.49 $12.49 $12.49 $25.92 $25.92 $25.92 $25.92 $25.92 $25.92 earning savings account $77.76 $77.76 $77.76 $77.76 $77.76 $77.76 </slidetext>
+      <slidetext slideid="6hCC1Xm7ZNf.5XZ0v2P9YZZ" slidebank="false" type="slide">does gebre have any benefits for health insurance, parking or retirement (401k or 403b)?  look at the paystub and answer the question. reading a paystub  yes yes yes yes yes yes no no no no no no earning savings account </slidetext>
+      <slidetext slideid="6hCC1Xm7ZNf.5lmK8oN6Pvp" slidebank="false" type="slide">now that gebre understands his paycheck and paystub, he needs to deposit the check into his bank account. depositing a check earning </slidetext>
+      <slidetext slideid="6hCC1Xm7ZNf.6o3E6p1KBuL" slidebank="false" type="slide">receive the paycheck the restaurant manager gives gebre the paycheck for $373.19.  01 earning </slidetext>
+      <slidetext slideid="6hCC1Xm7ZNf.6iUlBP9kIZt" slidebank="false" type="slide">deposit the paycheck earning gebre brings his paycheck to the bank and deposits it. 02 </slidetext>
+      <slidetext slideid="6hCC1Xm7ZNf.6773RcZuQzg" slidebank="false" type="slide">money is transferred earning $373.19 goes from the restaurant’s bank account to gebre’s account.  03 restaurant bank account gebre’s bank account - $373.19  + $373.19  </slidetext>
+      <slidetext slideid="6hCC1Xm7ZNf.6nWwPztqWbP" slidebank="false" type="slide">you can also deposit a check by other methods: check deposit methods earning the employer transfers money from their account to your account on payday. there is no paper check – you will only receive your paystub as a receipt. direct deposit take the check to an atm instead of a bank. the atm must belong to your bank and offer check deposit. atm deposit some banks allow you to deposit a check by taking a picture of it. the check is deposited automatically and funds are available in 1-2 days. mobile deposit </slidetext>
+      <slidetext slideid="6hCC1Xm7ZNf.6kD6HsnTu2y" slidebank="false" type="slide">direct deposit earning restaurant bank account gebre’s bank account - $373.19  + $373.19  with direct deposit, there is only 1 step. $373.19 immediately goes from the restaurant’s bank account to gebre’s account on payday. you can ask your employer about direct deposit and fill out paperwork to set it up. </slidetext>
+      <slidetext slideid="6hCC1Xm7ZNf.5lnb4fhB2W8" slidebank="false" type="slide">go! go! go! earning how much do you know? answer the questions and click submit. then tap go!  check your understanding </slidetext>
+      <slidetext slideid="6hCC1Xm7ZNf.5b9kerE1WrV" slidebank="false" type="slide">what’s next? earning go! go! go! tap go! to continue on to module 2! in module 2: spending you’ll learn how to: distinguish between financial wants and needs create a personal budget that balances income and spending identify 2 ways to save money and reduce expenses name 3 forms of money usage: cash, checks, and debit cards </slidetext>
+      <slidetext slideid="6fw90DCooK3.5ZsitBp2BTf" slidebank="false" type="slide">spending financial literacy 35 minutes  go! go! go! in this lesson you will learn about spending: money leaving your household.  </slidetext>
+      <slidetext slideid="6fw90DCooK3.5sDdg4wdoBK" slidebank="false" type="slide">what you’ll learn you will be able to:  distinguish between wants &amp; needs  create a personal budget: balance income &amp; expenses  identify 2 ways to save money and reduce expenses  name 3 ways to use money: cash, checks, &amp; debit cards  spending 35 minutes: learn about spending money. go! go! go! </slidetext>
+      <slidetext slideid="6fw90DCooK3.5hezAjxTGtx" slidebank="false" type="slide">go! go! go! how much do you know? answer the questions and click submit. then tap go!  check your understanding spending </slidetext>
+      <slidetext slideid="6fw90DCooK3.6V4nxKgyZgH" slidebank="false" type="slide">what would you do? if you had 1,000 dollars right now, what would you spend it on? why would you spend the money that way?  how did you make that decision?  spending ? </slidetext>
+      <slidetext slideid="6fw90DCooK3.5zSIcUFzPqB" slidebank="false" type="slide">something you desire or enjoy, but not something you need to survive. wants something that is required for survival - you cannot live without it. needs knowing the difference between wants and needs will help you spend money wisely.  wants vs. needs you will have to make daily choices about how you spend your money.  needs vs. wants spending need want </slidetext>
+      <slidetext slideid="6fw90DCooK3.62UG8hMBnrB" slidebank="false" type="slide">needs vs. wants spending help chakir decide if this is a want or a need by tapping want or need: need need need want want want start! start! start! 0/10 </slidetext>
+      <slidetext slideid="6fw90DCooK3.5yiyLLfhgBu" slidebank="false" type="slide">what is a budget? spending a budget is a way to track money coming in and out of your household. if your expenses are lower than your income, you can save or spend the extra money!  keep expenses lower than income complete and update your budget once a month to keep track of your spending. budget often always plan to include money in your budget for savings whenever possible. budget to save </slidetext>
+      <slidetext slideid="6fw90DCooK3.60JqwpaJ2oj" slidebank="false" type="slide">february budget spending ernesto and maria made a family budget to track their income and expenses.  what’s wrong with their budget?  </slidetext>
+      <slidetext slideid="6fw90DCooK3.5wYxKucwI41" slidebank="false" type="slide">reduce expenses spending tap each of the pictures to find out what you can do to reduce expenses:  </slidetext>
+      <slidetext slideid="6fw90DCooK3.6oTxKxxVWJy" slidebank="false" type="slide">electricity/gas spending ways to reduce household expenses with electricity and gas: turn off the lights before you leavethe house unplug appliances when not in use turn the heat down use a fan in the summer unless it is really hot – then use the ac </slidetext>
+      <slidetext slideid="6fw90DCooK3.6WVWSfziqnW" slidebank="false" type="slide">transportation spending ways to reduce household expenses with transportation: compare public transportation options – a monthly bus or train pass may be cheaper than day passes walk or bike as much as possible </slidetext>
+      <slidetext slideid="6fw90DCooK3.6CS0Lu5v5t1" slidebank="false" type="slide">food spending ways to reduce household expenses with food: compare product prices and find the cheapest grocery store near you buy things that are off-brand or on sale buy items in bulk avoid convenience stores (small stores) which are usually more expensive buy less junk food look for coupons and use a ‘bonus card’ for discounts </slidetext>
+      <slidetext slideid="6fw90DCooK3.6mvrbJDUHez" slidebank="false" type="slide">clothing spending ways to reduce household expenses with clothing: look for thrift stores or donationresources ask your caseworker if they have clothing donations </slidetext>
+      <slidetext slideid="6fw90DCooK3.5f2GzKFBgmC" slidebank="false" type="slide">cigarettes spending ways to reduce household expenses with cigarettes: cigarettes are a huge expense and are also very bad for your health </slidetext>
+      <slidetext slideid="6fw90DCooK3.6PpHJul8LlS" slidebank="false" type="slide">electronics spending ways to reduce household expenses with electronics: wait to buy children phones until they are old enough and will be responsible cut cost for cable and sign up for discounted internet and computer instead reduce time spent using technology </slidetext>
+      <slidetext slideid="6fw90DCooK3.5Y2UBurG481" slidebank="false" type="slide">march budget spending ernesto and maria worked hard to reduce their expenses and now their budget is balanced. income = expenses </slidetext>
+      <slidetext slideid="6fw90DCooK3.5tDJgQZOsVe" slidebank="false" type="slide">march budget spending how did ernesto and maria reduce their expenses? cancelled cable tv channels turned the heat down 3 degrees found community resource offering donated items </slidetext>
+      <slidetext slideid="6fw90DCooK3.6dSV1OxLMad" slidebank="false" type="slide">april budget spending ernesto and maria reduced their expenses even more and had $80.00 left over this month!  </slidetext>
+      <slidetext slideid="6fw90DCooK3.6Azo0kKc9gg" slidebank="false" type="slide">left over money spending what should ernesto and maria do with the extra $80.00? select one: go out to dinner and celebrate! buy lottery tickets. put the money into their savings account. </slidetext>
+      <slidetext slideid="6fw90DCooK3.6BSBtvnxGrS" slidebank="false" type="slide">ways to spend money spending you can use your debit card to withdraw money at the atm or make purchases.  debit card you can write a check - an official note that promises money from one person to another.  checks you can use cash - physical money; dollars and cents, in bills and coins. cash there are 3 ways you can spend your money: </slidetext>
+      <slidetext slideid="6fw90DCooK3.683R6DHtGGF" slidebank="false" type="slide">an atm is a computer that lets you withdraw cash from your bank account.  atms have a screen, number pad, a place to insert your debit card, and slots that dispense money and a receipt.  each atm looks a bit different.  to avoid fees, use your bank’s atms. what is an atm? spending </slidetext>
+      <slidetext slideid="6fw90DCooK3.6HyHejNk0Wo" slidebank="false" type="slide">whenever you withdraw cash from an atm, you should do a few things to keep yourself and your money safe!  staying safe at the atm spending don’t carry more than $40.00 in your wallet or pocket, because you cannot replace cash if it is stolen.  don’t carry too much cash check to make sure no one is looking over your shoulder. check behind you cover your hand when you type your pin number.  cover your pin </slidetext>
+      <slidetext slideid="6fw90DCooK3.5qmH1ktByWJ" slidebank="false" type="slide">now let’s try a simulation of how to withdraw money from an atm.  follow the directions to withdraw $40 from your checking account!  withdrawing money spending go! go! go! </slidetext>
+      <slidetext slideid="6fw90DCooK3.6eH2BCvDOSy" slidebank="false" type="slide">welcome! please insert your  card to get started. tap here to insert your debit card </slidetext>
+      <slidetext slideid="6fw90DCooK3.6lIpBXPrxQM" slidebank="false" type="slide">40 7984 thank you. please take your card. tap here to remove your debit card </slidetext>
+      <slidetext slideid="6fw90DCooK3.6moR6hjvj6s" slidebank="false" type="slide">3 4 7 8 please enter your pin number. press 4 </slidetext>
+      <slidetext slideid="6fw90DCooK3.5VZvzs7e8Tq" slidebank="false" type="slide">3 4 7 8 please enter your pin number. * press 8 </slidetext>
+      <slidetext slideid="6fw90DCooK3.6eEpjZ0oRTL" slidebank="false" type="slide">4 7 8 please enter your pin number. *  * 3 press 3 </slidetext>
+      <slidetext slideid="6fw90DCooK3.69pQAjfI6CB" slidebank="false" type="slide">3 4 7 8 please enter your pin number. *  *  * press 7 </slidetext>
+      <slidetext slideid="6fw90DCooK3.6FpY0W2dv6n" slidebank="false" type="slide">3 4 7 8 please enter your pin number. *  *  *  * enter press enter </slidetext>
+      <slidetext slideid="6fw90DCooK3.6HNvuwEsBlw" slidebank="false" type="slide">please select an account. checking savings select checking </slidetext>
+      <slidetext slideid="6fw90DCooK3.5bjiq17QaQT" slidebank="false" type="slide">please select an option. withdrawal deposit balance inquiry select withdrawal </slidetext>
+      <slidetext slideid="6fw90DCooK3.6MfCJB21BzO" slidebank="false" type="slide">select an amount, or enter another amount, then hit ok. $20 $40 $60 $80 $100 $0.00 select $40 </slidetext>
+      <slidetext slideid="6fw90DCooK3.6g43EQu5qnu" slidebank="false" type="slide">please take your cash. tap to take your cash! </slidetext>
+      <slidetext slideid="6fw90DCooK3.6p0pHyx9sFh" slidebank="false" type="slide">do you need anything else? main menu exit select exit </slidetext>
+      <slidetext slideid="6fw90DCooK3.6LyFxSjXUIO" slidebank="false" type="slide">please take your receipt. tap to take your receipt </slidetext>
+      <slidetext slideid="6fw90DCooK3.5pqqJheIGFk" slidebank="false" type="slide">thank you for choosing 1st bank!  </slidetext>
+      <slidetext slideid="6fw90DCooK3.6mFV5Iu6Mde" slidebank="false" type="slide">you can also spend money through a check. just like your employer cangive you a check, you can also write a check to other people, stores, or businesses (but not all businesses accept checks).  writing a check spending </slidetext>
+      <slidetext slideid="6fw90DCooK3.656dDAMAwW9" slidebank="false" type="slide">write the check tuang writes a check for $600.00 and gives it to the rental office to pay the rent for his apartment.  01 spending </slidetext>
+      <slidetext slideid="6fw90DCooK3.5kxXBZOYlJ0" slidebank="false" type="slide">deposit the check spending someone from the rental office deposits the check in their bank account. 02 </slidetext>
+      <slidetext slideid="6fw90DCooK3.5w6zED5x3fb" slidebank="false" type="slide">money is transferred spending $600.00 goes from tuang’s bank account to the rental agency’s bank account.  03 tuang’s bank account rental agency’s account - $600.00  + $600.00 </slidetext>
+      <slidetext slideid="6fw90DCooK3.6FFQbgfaIU6" slidebank="false" type="slide">roberta wants to send a check to pay her electricity bill, but she needs your help to write the check. tap go! to get started! help write a check spending go! go! go! </slidetext>
+      <slidetext slideid="6fw90DCooK3.5uH2QyXbRlU" slidebank="false" type="slide">drag and drop the information to the correct space on the check:  help write a check spending 07/20/17 07/20/17 07/20/17 07/20/17 rw electric company rw electric company rw electric company rw electric company $84.85 $84.85 $84.85 $84.85 eighty-four dollars and 85/100  eighty-four dollars and 85/100  eighty-four dollars and 85/100  eighty-four dollars and 85/100  june electric bill june electric bill june electric bill june electric bill </slidetext>
+      <slidetext slideid="6fw90DCooK3.5Zj5m3yu7gg" slidebank="false" type="slide">you may find other ways to spend money in your daily lives. some of these services are offered through a phone app, and others are available online or in-person.  tap each image to view more information about each way to spend money. other ways to spend  spending </slidetext>
+      <slidetext slideid="6fw90DCooK3.67GPSWJ2k3k" slidebank="false" type="slide">money orders spending these are similar to checks, but are guaranteed by a bank or post office. you usually pay a fee to purchase a money order. some rental companies require money orders for rent payments. if you lose a money order, it’s like losing cash. </slidetext>
+      <slidetext slideid="6fw90DCooK3.5hotEidibwX" slidebank="false" type="slide">venmo spending venmo is a phone application that allows friends and family to send and receive money between their bank accounts. </slidetext>
+      <slidetext slideid="6fw90DCooK3.6WgkEtRjNgC" slidebank="false" type="slide">money orders spending a common service to “wire” (send) money from one person to another. western union has many in-person branch locations. this is common for sending money to people in other countries. </slidetext>
+      <slidetext slideid="6fw90DCooK3.6WB36ekCvy2" slidebank="false" type="slide">paypal spending this service is available on smartphones or computers. it allows you to make and receive payments through your paypal account, which is connected to your bank account. </slidetext>
+      <slidetext slideid="6fw90DCooK3.66aHlPIeSN7" slidebank="false" type="slide">go! go! go! earning how much did you learn? answer the questions and click submit. then tap go!  check your understanding </slidetext>
+      <slidetext slideid="6fw90DCooK3.5v0lzlAfRZA" slidebank="false" type="slide">what’s next? earning go! go! go! tap go! to continue on to module 3! in module 3: borrowing you’ll learn how to: define a loan and interest rate identify 1 factor that affects an interest rate name 1 action that increases a credit score and 1 action that decreases a credit score name 2 important facts about credit cards </slidetext>
+      <slidetext slideid="6gcMFytiKmR.6RLdjLk3RSc" slidebank="false" type="slide">borrowing financial literacy 45 minutes  go! go! go! in this lesson, you will learn about borrowing: using someone else’s money and then returning it later.  </slidetext>
+      <slidetext slideid="6gcMFytiKmR.6mimKBaWtPR" slidebank="false" type="slide">what you’ll learn you will be able to:  define a loan and interest rate and identify 1 factor that affects an interest rate name the value of a credit score and 2 actions that increase and decrease it  name 2 important facts about credit cards  borrowing 45 minutes: learn about borrowing other people’s money. go! go! go! </slidetext>
+      <slidetext slideid="6gcMFytiKmR.6Bny42Y0iEC" slidebank="false" type="slide">go! go! go! how much do you know? answer the questions and click submit. then tap go!  check your understanding borrowing </slidetext>
+      <slidetext slideid="6gcMFytiKmR.6d3wxDrPSQW" slidebank="false" type="slide">would you borrow? tap on each person to find out why they want to borrow money.  borrowing borrow! don’t borrow! borrow! don’t borrow! borrow! don’t borrow! go! go! go! </slidetext>
+      <slidetext slideid="6gcMFytiKmR.5eFypC6v0xI" slidebank="false" type="slide">borrowing a car loan borrowing what would happen if jackie actually borrowed $30,000 to buy a new car? tap the cash to borrow.  </slidetext>
+      <slidetext slideid="6gcMFytiKmR.5iS7LG4ON0H" slidebank="false" type="slide">interest rate borrowing interest is the amount of money a bank or loan company charges you to use their money.  instead of paying the company back $30,000, jackie will end up paying more than she borrowed.  let’s look a little closer at the scenario. go! go! go! </slidetext>
+      <slidetext slideid="6gcMFytiKmR.5W03Dgvtq5L" slidebank="false" type="slide">which is better: a car loan with a high interest rate or low interest rate?  interest rates high interest rate is better high interest rate is better high interest rate is better high interest rate is better high interest rate is better high interest rate is better low interest rate is better low interest rate is better low interest rate is better low interest rate is better low interest rate is better low interest rate is better borrowing check check check </slidetext>
+      <slidetext slideid="6gcMFytiKmR.5t28sNrqREH" slidebank="false" type="slide">credit score borrowing everyone in the united states has a credit score between 300 to 850.   if you have a low credit score, a lender won’t trust you as much with their money and will give you a higher interest rate.  low credit = high interest rate if you have a high credit score, a lender will trust you with their money and give you a lower interest rate. high credit = low interest rate your credit score determines how much a lender will trust you.  credit = trust go! go! go! </slidetext>
+      <slidetext slideid="6gcMFytiKmR.6i7x6ZkIKKf" slidebank="false" type="slide">you’re the lender!  let’s imagine that you are the lender. two people have come to you to borrow money. tap each person to see why they want to borrow money.  borrowing approved! denied! go! go! go! approved! denied! </slidetext>
+      <slidetext slideid="6gcMFytiKmR.6JanFL62rml" slidebank="false" type="slide">raise or lower? borrowing ahlam just arrived in the us and needs to build her credit score.  help her decide which things will raise and lower her credit score.  start! start! start! 0 </slidetext>
+      <slidetext slideid="6gcMFytiKmR.6hF2Gal07yU" slidebank="false" type="slide">what does credit do? credit is not only important for getting lower interest rates on loans.  tap each picture to see how it is affected by your credit score. borrowing go! go! go! </slidetext>
+      <slidetext slideid="6gcMFytiKmR.6UpOQW0BvgF" slidebank="false" type="slide">what’s your credit score? now that you know how important a credit score is, you might be wondering how to check your own credit score.  you can request a free credit report and credit score once a year from: annualcreditreport.com  your credit score will not go down from checking it! it’s important to be aware of your credit score as you continue to make financial decisions in your life and not wait until it becomes an issue.   borrowing go! go! go! ? excellent 750-850 good 700-749 fair 560-699 poor 550-649 bad 350-549 ? </slidetext>
+      <slidetext slideid="6gcMFytiKmR.66tICJAQRTr" slidebank="false" type="slide">credit card vs. debit card credit cards look similar to debit cards but the difference is where the money is taken from.  borrowing debit credit debit cards – you pay right away from the money in your bank account.  credit cards – you spend money that is borrowed from the bank/company to pay back later.  go! go! go! </slidetext>
+      <slidetext slideid="6gcMFytiKmR.5kUmZ4nhcs8" slidebank="false" type="slide">how credit cards work when you go to the store, you swipe or insert your credit card into a machine that reads your card number.  drag the card to the machine to swipe.   borrowing credit </slidetext>
+      <slidetext slideid="6gcMFytiKmR.5dLLFYCSPsW" slidebank="false" type="slide">go shopping! now that you know how credit cards work, let’s practice buying items with a credit card! drag the items you’d like to buy into your shopping cart. then tap checkout to buy the items.  borrowing check out check out check out total price: $ %price%  money in bank: $ 25.00 </slidetext>
+      <slidetext slideid="6gcMFytiKmR.6oi3GHg4fBc" slidebank="false" type="slide">credit card statements let’s take a closer look at the credit card statement. borrowing go! go! go! </slidetext>
+      <slidetext slideid="6gcMFytiKmR.5sfmFc1SAhi" slidebank="false" type="slide">what happens if you don't have enough money in your bank account to pay the credit card statement?  what would happen? nothing. they will wait until you have money to pay it. nothing. they will wait until you have money to pay it. nothing. they will wait until you have money to pay it. nothing. they will wait until you have money to pay it. nothing. they will wait until you have money to pay it. nothing. they will wait until you have money to pay it. they will start charging interest on the amount you owe. they will start charging interest on the amount you owe. they will start charging interest on the amount you owe. they will start charging interest on the amount you owe. they will start charging interest on the amount you owe. they will start charging interest on the amount you owe. borrowing check check check </slidetext>
+      <slidetext slideid="6gcMFytiKmR.6oSPPichb5N" slidebank="false" type="slide">what happens if you pay the credit card company late? what would you do? they will charge you a late fee. they will charge you a late fee. they will charge you a late fee. they will charge you a late fee. they will charge you a late fee. they will charge you a late fee. they will cancel your credit card. they will cancel your credit card. they will cancel your credit card. they will cancel your credit card. they will cancel your credit card. they will cancel your credit card. borrowing check check check </slidetext>
+      <slidetext slideid="6gcMFytiKmR.6IdaDr15V2i" slidebank="false" type="slide">late fees &amp; interest borrowing if you cannot pay the full balance, you will owe the credit card company money and they will start charging you interest at the apr.  paying your full balance on time each month will improve your credit score and help you stay financially stable! pay on time and in full if you cannot pay in full pay as much as you can every month. you must pay at least the minimum payment to avoid extra fees and charges. make the minimum payment to avoid fees credit cards usually have an apr between 10% and 40%. each month they will charge you interest on your debt.   apr = annual interest rate go! go! go! </slidetext>
+      <slidetext slideid="6gcMFytiKmR.6p49tAyXJOI" slidebank="false" type="slide">annual interest rates you have just been approved for two credit cards!  which one will you choose? tap to select a credit card. borrowing a credit card b 10% apr 40% apr </slidetext>
+      <slidetext slideid="6gcMFytiKmR.6C0YZ25Db94" slidebank="false" type="slide">what did we learn? borrowing is using someone else’s money that we need to pay back. we can borrow money in the form of a loan or by using credit cards. borrowing go! go! go! </slidetext>
+      <slidetext slideid="6gcMFytiKmR.5twIAe7QLnK" slidebank="false" type="slide">borrowing check your understanding how much did you learn? answer the questions and click submit. then tap go!  go! go! go! </slidetext>
+      <slidetext slideid="6gcMFytiKmR.5nVFTcKThVP" slidebank="false" type="slide">what’s next? in module 4: saving &amp; protecting you will learn:  why saving money is important why it’s advisable to save money in the bank best practices to avoid fraud how to identify a financial goal you have for the future  borrowing go! go! go! tap go! to continue on to module 4! </slidetext>
+      <slidetext slideid="5dUgghGgApD.6JiawmbgdAt" slidebank="false" type="slide">saving &amp; protecting financial literacy 45 minutes  go! go! go! in this lesson, you will learn about saving: putting aside money to use for something later, and protecting: ensuring your money is safe.  </slidetext>
+      <slidetext slideid="5dUgghGgApD.5r9j2Ey0AxM" slidebank="false" type="slide">what you’ll learn you will be able to:  name 1 reason why saving money is important identify why it’s advisable to save money in the bank identify 2 best practices to avoid fraud name a financial goal you have for the future  saving &amp; protecting go! go! go! 45 minutes: learn about saving &amp; protecting your money. </slidetext>
+      <slidetext slideid="5dUgghGgApD.5h7Du3CD4tX" slidebank="false" type="slide">go! go! go! how much do you know? answer the questions and click submit. then tap go!  check your understanding saving &amp; protecting </slidetext>
+      <slidetext slideid="5dUgghGgApD.6P2xPqStGC7" slidebank="false" type="slide">why save money? saving &amp; protecting guillermo has been saving $20 every month to buy a new tv.   tap the tv to find out how much it costs </slidetext>
+      <slidetext slideid="5dUgghGgApD.6ea7SUZdOBt" slidebank="false" type="slide">what are savings for? saving &amp; protecting it’s important to save money every month, even if it’s just a few dollars, because you never know when something may happen… go! go! go! when you save money, you don’t pay any interest because it’s not a loan!  better than borrowing! buying things, like a new tv, refrigerator, or car, cost a lot of money! you need to save money to spend it! large purchases you never know when you might get sick or fix a car.  if you save money, you’ll always be prepared.  emergencies </slidetext>
+      <slidetext slideid="5dUgghGgApD.5c8s2uQtlh6" slidebank="false" type="slide">help guillermo save! saving &amp; protecting guillermo is examining his budget because he wants to save more money each month to save up for a better car. some of his expenses are the same amount each month, but some of them are different from month to month. help guillermo decide where he can save money on expenses! go! go! go! </slidetext>
+      <slidetext slideid="5dUgghGgApD.63Ln6B5CFlU" slidebank="false" type="slide">variable expenses saving &amp; protecting go! go! go! variable expenses are expenses that change (or vary) from month to month, which make it harder to budget for. the amount you have to pay for things like electricity/gas bills, food costs and educational expenses is different each month.   </slidetext>
+      <slidetext slideid="5dUgghGgApD.5Z9vublAAso" slidebank="false" type="slide">does it vary? saving &amp; protecting which of these expenses are variable? check all that apply: check check check rent rent rent rent rent rent cell phone bill cell phone bill cell phone bill cell phone bill cell phone bill cell phone bill groceries &amp; restaurants groceries &amp; restaurants groceries &amp; restaurants groceries &amp; restaurants groceries &amp; restaurants groceries &amp; restaurants internet &amp; cable tv internet &amp; cable tv internet &amp; cable tv internet &amp; cable tv internet &amp; cable tv internet &amp; cable tv transportation transportation transportation transportation transportation transportation </slidetext>
+      <slidetext slideid="5dUgghGgApD.5w6h4noNqSA" slidebank="false" type="slide">make room for savings saving &amp; protecting guillermo is ready to cut some of his expenses!  tap each button to make room for savings. total savings: %savings% $0.00 $60.00 $0.00 $400.00 $ %exps% </slidetext>
+      <slidetext slideid="5dUgghGgApD.6ZKDcj4dK1c" slidebank="false" type="slide">how to keep money safe saving &amp; protecting alanda knows how important is to save money, but she isn’t sure how to keep it safe! help alanda choose the best place to save money.  go! go! go! </slidetext>
+      <slidetext slideid="5dUgghGgApD.6ItKGnm4ttD" slidebank="false" type="slide">remember how you deposited your paycheck into your checking account? you can also have a savings account which has additional benefits. do you currently have a savings account? yes, i have a savings account. yes, i have a savings account. yes, i have a savings account. yes, i have a savings account. yes, i have a savings account. yes, i have a savings account. no, i do not have a savings account. no, i do not have a savings account. no, i do not have a savings account. no, i do not have a savings account. no, i do not have a savings account. no, i do not have a savings account. go! go! go! savings account saving &amp; protecting </slidetext>
+      <slidetext slideid="5dUgghGgApD.6Ojq7aA73bW" slidebank="false" type="slide">people usually have 2 accounts in a bank or credit union:  bank accounts saving &amp; protecting a savings account a checking account an account in a financial institution that is active – money is deposited and withdrawn regularly.  an account in a financial institution that earns interest and is not accessed frequently go! go! go! </slidetext>
+      <slidetext slideid="5dUgghGgApD.6l0g6igeyPa" slidebank="false" type="slide">checking account your checking account is active!  checking account saving &amp; protecting this is the account your paycheck is deposited into and where you pay your bills (rent, electricity, water) go! go! go! </slidetext>
+      <slidetext slideid="5dUgghGgApD.6O2xJeqEmti" slidebank="false" type="slide">checking account this account is linked to your debit card and check book. checking account saving &amp; protecting you can withdraw money easily.   go! go! go! </slidetext>
+      <slidetext slideid="5dUgghGgApD.5grVDzzjywv" slidebank="false" type="slide">savings account checking account you can transfer money to and from your savings account. bank accounts saving &amp; protecting go! go! go! </slidetext>
+      <slidetext slideid="5dUgghGgApD.5bqLBHDnJ2X" slidebank="false" type="slide">savings account this account is for money that you save for future purchases or emergencies. savings account saving &amp; protecting save money here for a car, home or education go! go! go! </slidetext>
+      <slidetext slideid="5dUgghGgApD.6C0uDlCy4CG" slidebank="false" type="slide">savings &amp; interest saving &amp; protecting when you save money in a bank it earns interest. for a loan, you borrow money and you pay interest. when you save, the bank pays you interest.  go! go! go! you cannot access money in your savings account frequently and it slowly accumulates interest.  low risk way to save money most bank accounts have a savings account attached to the checking account. checking &amp; savings the bank gives you interest and protects your money. the interest is small – less than 1% each year. benefits of saving in a bank </slidetext>
+      <slidetext slideid="5dUgghGgApD.5i6eGJ967Xh" slidebank="false" type="slide">other ways to save  saving &amp; protecting there are many account types that can save and earn money in the long-run. tap on the icons below to learn more about each.  go! go! go! </slidetext>
+      <slidetext slideid="5dUgghGgApD.6rmbVRwhQAG" slidebank="false" type="slide">what is fraud? saving &amp; protecting fraud is when people try to trick you to steal your money. even if you are careful with your money, there are still many ways to experience fraud… go! go! go! </slidetext>
+      <slidetext slideid="5dUgghGgApD.6qLTSk6AGIE" slidebank="false" type="slide">fraud or normal? saving &amp; protecting shadana just opened a savings account and wants to protect her money. help her avoid fraud by deciding whether each situation is fraud or normal.  go! go! go! </slidetext>
+      <slidetext slideid="5dUgghGgApD.5VMCNRDGX1H" slidebank="false" type="slide">how to prevent fraud saving &amp; protecting tap on each image below to view strategies to protect your money. go! go! go! </slidetext>
+      <slidetext slideid="5dUgghGgApD.6DliNN93XhA" slidebank="false" type="slide">tracking money saving &amp; protecting it is important to always be aware of what money is leaving and entering your accounts and check for suspicious activity.  go! go! go! you can track your money through an app provided by your bank. some banks offer mobile check deposit, where you can take a photo of a check to make a deposit. mobile banking if you have access to a computer and email, you can track your money and accounts online. you can also move money between your accounts online. online banking you can receive bank statements in the mail that list all bank activity in the past month. check these statements to ensure everything is correct.  printed bank statements </slidetext>
+      <slidetext slideid="5dUgghGgApD.5w6SmZ6jzvk" slidebank="false" type="slide">bank statement saving &amp; protecting min just received her bank statement. help min understand the features of her statement by answering some questions. go! go! go! </slidetext>
+      <slidetext slideid="5dUgghGgApD.6FU1ehxj0kc" slidebank="false" type="slide">setting a goal saving &amp; protecting a goal is a clear plan that is achievable and solid. goals help guide your daily actions and how you manage your money. go! go! go! you cannot achieve a goal in a single day. achieving goals requires time, patience, and careful planning. plan it out just like you need to walk up a flight of stairs step by step, goals need to be accomplished in a series of small steps.  step-by-step goals can be financial, like saving a certain amount of money; material, like buying a car; or experiential, like taking a college class. types of goals </slidetext>
+      <slidetext slideid="5dUgghGgApD.6SmM8yFPK8M" slidebank="false" type="slide">components of a goal saving &amp; protecting goals should have 4 components. tap the icons to learn about each.  go! go! go! </slidetext>
+      <slidetext slideid="5dUgghGgApD.5x10zPj3NX1" slidebank="false" type="slide">goal scenario saving &amp; protecting help isaac make his goal better by using the 4 components of a goal. go! go! go! i want to buy a car. </slidetext>
+      <slidetext slideid="5dUgghGgApD.6Yu2bo7Dtbs" slidebank="false" type="slide">what’s your goal? saving &amp; protecting what financial goal will you set? take a few minutes and think about what you would like to accomplish, then write down your goal. make sure you use the 4 components to make your goal specific, add a reason why you made this goal, create a deadline and make a plan!  go! go! go! </slidetext>
+      <slidetext slideid="5dUgghGgApD.5YAgSjOpEg4" slidebank="false" type="slide">saving &amp; protecting check your understanding how much did you learn? answer the questions and click submit. then tap go!  go! go! go! </slidetext>
+      <slidetext slideid="5dUgghGgApD.6m9qNAZkwFi" slidebank="false" type="slide">congratulations! you have completed this course on financial literacy!  click the links below for more resources on financial literacy:   saving &amp; protecting start over start over start over tap start over to return to the beginning. </slidetext>
+      <slidetext slideid="6dfGHseWnga.6XSGQh9xq3X" slidebank="false" type="slide">hloom “human hands exchanging money” hloom.com https://www.flickr.com/photos/95051110@n07/28646791216 haelliott “coastal federal credit union” https://commons.wikimedia.org/wiki/file:coastalfederalcreditunion-creedmoorbranch.jpg </slidetext>
+    </search>
+  </nav_data>
+  <resource_data description="&lt;p align='left'&gt;&lt;font face='Open Sans' style='font-size: 11px;' size='11' color='#444444'&gt;Here are some useful links and documents:&lt;/font&gt;&lt;/p&gt;" />
+  <transcript_data>
+    <slidetranscripts>
+      <slidetranscript slideid="6hCC1Xm7ZNf.6fZNZrybyyb" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="0">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style LeadingMargin="0" FirstLineMargin="0" Justification="Left" ListLevel="1" LineSpacingRule="Multiple" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Plain" Start="0" Color="#000000,00" BulletChar="•" BulletFont="Arial"&gt;
+          &lt;BulletPicture Size="0x0" /&gt;
+        &lt;/ListStyle&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="Image Title: &amp;#x9;&amp;#x9;The Model&amp;#xA;"&gt;
+        &lt;Style FontFamily="Calibri" FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" ForegroundColor="dk1,00" Elevation="Normal" DisplayCase="AsIs" LinkColor="dk1,00" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style LeadingMargin="0" FirstLineMargin="0" Justification="Left" ListLevel="1" LineSpacingRule="Multiple" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Plain" Start="0" Color="#000000,00" BulletChar="•" BulletFont="Arial"&gt;
+          &lt;BulletPicture Size="0x0" /&gt;
+        &lt;/ListStyle&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="By: &amp;#x9;&amp;#x9;               &amp;#x9;Thomas Leuthard  https://www.flickr.com/photos/thomasleuthard/&amp;#xA;"&gt;
+        &lt;Style FontFamily="Calibri" FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" ForegroundColor="dk1,00" Elevation="Normal" DisplayCase="AsIs" LinkColor="dk1,00" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style LeadingMargin="0" FirstLineMargin="0" Justification="Left" ListLevel="1" LineSpacingRule="Multiple" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Plain" Start="0" Color="#000000,00" BulletChar="•" BulletFont="Arial"&gt;
+          &lt;BulletPicture Size="0x0" /&gt;
+        &lt;/ListStyle&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="Source: &amp;#x9;&amp;#x9;&amp;#x9;https://flic.kr/p/8XQ6Yh&amp;#xA;"&gt;
+        &lt;Style FontFamily="Calibri" FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" ForegroundColor="dk1,00" Elevation="Normal" DisplayCase="AsIs" LinkColor="dk1,00" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style LeadingMargin="0" FirstLineMargin="0" Justification="Left" ListLevel="1" LineSpacingRule="Multiple" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Plain" Start="0" Color="#000000,00" BulletChar="•" BulletFont="Arial"&gt;
+          &lt;BulletPicture Size="0x0" /&gt;
+        &lt;/ListStyle&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="Licensed under CC by 2.0 &amp;#x9;"&gt;
+        &lt;Style FontFamily="Calibri" FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" ForegroundColor="dk1,00" Elevation="Normal" DisplayCase="AsIs" LinkColor="dk1,00" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="https://creativecommons.org/licenses/by-nd/2.0/"&gt;
+        &lt;Style FontFamily="Calibri" FontIsBold="False" FontIsItalic="False" FontIsUnderline="True" FontIsStrikeout="False" ForegroundColor="dk1,00" Elevation="Normal" DisplayCase="AsIs" LinkColor="dk1,00" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+    </slidetranscripts>
+  </transcript_data>
+  <glossary_data>
+    <terms>
+      <term title="APR">The interest rate on a credit card, calculated annually.</term>
+      <term title="ATM">A computer that does some of the same functions and tasks as a bank employee. You can access your account from an ATM to withdraw cash, deposit checks, or see your account balance. </term>
+      <term title="Bank Account">The place where a financial institution protects and maintains the money of an individual or company.</term>
+      <term title="Bank Statement">A record of all the money, with specific amounts, that came into and left your bank account. Bank statements usually record 1 month of activity.</term>
+      <term title="Benefits">Services provided through an employer, such as health insurance or retirement savings. You and the employer share the costs and money is taken out of your paycheck.</term>
+      <term title="Borrowing">Taking and spending someone’s money (from a bank or company) and returning it later. When you borrow money, you need to pay interest.</term>
+      <term title="Budget">A monthly financial plan for your household that specifies income and expenses. </term>
+      <term title="Cash">A physical form of money; in the USA, the currency is dollars and cents, in bills and coins.</term>
+      <term title="Check">An official paper note that promises money from one person/business to another. Employers give employees checks for work, but checks are also used between individuals. Checks are replaceable and therefore safer than cash. </term>
+      <term title="Checking Account">An account in a financial institution that is active – money is deposited and withdrawn regularly. Checks and debit cards are linked to a Checking Account.</term>
+      <term title="Credit Card">A card given by a bank or business that lets you buy items with borrowed money. You pay back the credit card company each month.</term>
+      <term title="Credit Score">A number given to a person that represents their “trustworthiness” with borrowed money. Credit scores affect loans, mortgages, and ability to rent apartments or get jobs.</term>
+      <term title="Debit Card">A card linked to your checking account. You can use your debit card to withdraw money at the ATM or make purchases. </term>
+      <term title="Debt">Money that is owed to someone.</term>
+      <term title="Deductions">Money that is legally kept out of a paycheck that goes to taxes or benefits.</term>
+      <term title="Deposit">An amount of money placed in a bank account.</term>
+      <term title="Earning">Making or obtaining money.</term>
+      <term title="Earning Interest">A percent of money that the bank pays you as a reward for keeping money in a savings account. This interest is usually small.</term>
+      <term title="Fraud">A trick or scam used by people to access your information and money.</term>
+      <term title="Goal">A specific, achievable plan to accomplish something you want in the future.</term>
+      <term title="Income">All money coming into your household, from work earnings, public benefits, or other sources.</term>
+      <term title="Interest">A percent that is paid back when you borrow money -
+like a “service fee” for borrowing. Interest is also the percent
+of money you earn with a savings account.</term>
+      <term title="Loan">The amount of money that is borrowed and expected to
+be paid back.</term>
+      <term title="Mobile Banking">A phone app run by your bank that allows you to do some banking tasks without visiting an actual bank location.</term>
+      <term title="Online Banking">A website offered by your bank that allows you do some banking tasks online without visiting your bank. Similar to mobile banking.</term>
+      <term title="Paycheck">A method of payment from an employer. Paychecks usually come in set intervals of time, such as every 2 weeks.</term>
+      <term title="Paystub">The receipt of the paycheck, with more details about work earnings, taxes, and benefits.</term>
+      <term title="PIN Number">A four-digit number that you need in order to use your debit card. This number should be secret.</term>
+      <term title="Protecting">Making sure that your money is secure, safe, and protected from theft or fraud.</term>
+      <term title="Saving">Putting away money, even in small amounts, in order to spend it later. Savings can be used in case of an emergency or unexpected expense, or to make an important life purchase.</term>
+      <term title="Savings Account">An account in a financial institution that earns interest and is not accessed frequently.</term>
+      <term title="Spending">All money leaving your household. </term>
+      <term title="Taxes">The part of your income that goes to the government, to provide beneficial services such as roads or schools.</term>
+      <term title="Withdraw">Taking cash out of your account, usually at an ATM or a bank.</term>
+    </terms>
+  </glossary_data>
+</bwFrame>
